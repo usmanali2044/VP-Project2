@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+<<<<<<< HEAD
+  "Hash": "4y7a2lRdOH2pl2t+B98Zso+GOsR6dvIenRleLUrsklI=",
+=======
+  "Hash": "OUX2sD4fntHtpY8lomWk0fQ/7Ko5VS6r5pHLppl3G5A=",
+>>>>>>> 0789b6f (changes)
+  "Source": "SchoolProject",
+  "BasePath": "_content/SchoolProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+<<<<<<< HEAD
+      "Name": "SchoolProject/wwwroot",
+      "Source": "SchoolProject",
+      "ContentRoot": "/home/usman/Desktop/Project/SchoolProject/wwwroot/",
+=======
+      "Name": "SchoolProject\\wwwroot",
+      "Source": "SchoolProject",
+      "ContentRoot": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\",
+>>>>>>> 0789b6f (changes)
+      "BasePath": "_content/SchoolProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+<<<<<<< HEAD
+      "Identity": "/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/scopedcss/bundle/SchoolProject.styles.css",
+      "SourceId": "SchoolProject",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/scopedcss/bundle/",
+=======
+      "Identity": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SchoolProject.styles.css",
+      "SourceId": "SchoolProject",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+>>>>>>> 0789b6f (changes)
+      "BasePath": "_content/SchoolProject",
+      "RelativePath": "SchoolProject.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/scopedcss/bundle/SchoolProject.styles.css"
+    },
+    {
+      "Identity": "/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/scopedcss/projectbundle/SchoolProject.bundle.scp.css",
+      "SourceId": "SchoolProject",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/scopedcss/projectbundle/",
+=======
+      "OriginalItemSpec": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SchoolProject.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SchoolProject.bundle.scp.css",
+      "SourceId": "SchoolProject",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+>>>>>>> 0789b6f (changes)
+      "BasePath": "_content/SchoolProject",
+      "RelativePath": "SchoolProject.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/scopedcss/projectbundle/SchoolProject.bundle.scp.css"
+    },
+    {
+      "Identity": "/home/usman/Desktop/Project/SchoolProject/wwwroot/animations.js",
+      "SourceId": "SchoolProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/usman/Desktop/Project/SchoolProject/wwwroot/",
+=======
+      "OriginalItemSpec": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SchoolProject.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\animations.js",
+      "SourceId": "SchoolProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\",
+>>>>>>> 0789b6f (changes)
+      "BasePath": "_content/SchoolProject",
+      "RelativePath": "animations.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot/animations.js"
+    },
+    {
+      "Identity": "/home/usman/Desktop/Project/SchoolProject/wwwroot/app.css",
+      "SourceId": "SchoolProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/usman/Desktop/Project/SchoolProject/wwwroot/",
+=======
+      "OriginalItemSpec": "wwwroot\\animations.js"
+    },
+    {
+      "Identity": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\app.css",
+      "SourceId": "SchoolProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\",
+>>>>>>> 0789b6f (changes)
+      "BasePath": "_content/SchoolProject",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot/app.css"
+    },
+    {
+      "Identity": "/home/usman/Desktop/Project/SchoolProject/wwwroot/bootstrap/bootstrap.min.css",
+      "SourceId": "SchoolProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/usman/Desktop/Project/SchoolProject/wwwroot/",
+=======
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "SchoolProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\",
+>>>>>>> 0789b6f (changes)
+      "BasePath": "_content/SchoolProject",
+      "RelativePath": "bootstrap/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Identity": "/home/usman/Desktop/Project/SchoolProject/wwwroot/bootstrap/bootstrap.min.css.map",
+      "SourceId": "SchoolProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/usman/Desktop/Project/SchoolProject/wwwroot/",
+=======
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "SchoolProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\",
+>>>>>>> 0789b6f (changes)
+      "BasePath": "_content/SchoolProject",
+      "RelativePath": "bootstrap/bootstrap.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Identity": "/home/usman/Desktop/Project/SchoolProject/wwwroot/favicon.png",
+      "SourceId": "SchoolProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/usman/Desktop/Project/SchoolProject/wwwroot/",
+=======
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\favicon.png",
+      "SourceId": "SchoolProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\",
+>>>>>>> 0789b6f (changes)
+      "BasePath": "_content/SchoolProject",
+      "RelativePath": "favicon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot/favicon.png"
+    },
+    {
+      "Identity": "/home/usman/Desktop/Project/SchoolProject/wwwroot/images/card-img2.jpg",
+      "SourceId": "SchoolProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/usman/Desktop/Project/SchoolProject/wwwroot/",
+=======
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\images\\card-img2.jpg",
+      "SourceId": "SchoolProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\",
+>>>>>>> 0789b6f (changes)
+      "BasePath": "_content/SchoolProject",
+      "RelativePath": "images/card-img2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot/images/card-img2.jpg"
+    },
+    {
+      "Identity": "/home/usman/Desktop/Project/SchoolProject/wwwroot/images/card1-img.jpg",
+      "SourceId": "SchoolProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/usman/Desktop/Project/SchoolProject/wwwroot/",
+=======
+      "OriginalItemSpec": "wwwroot\\images\\card-img2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\images\\card1-img.jpg",
+      "SourceId": "SchoolProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\",
+>>>>>>> 0789b6f (changes)
+      "BasePath": "_content/SchoolProject",
+      "RelativePath": "images/card1-img.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot/images/card1-img.jpg"
+    },
+    {
+      "Identity": "/home/usman/Desktop/Project/SchoolProject/wwwroot/images/happy-profile.jpg",
+      "SourceId": "SchoolProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/usman/Desktop/Project/SchoolProject/wwwroot/",
+=======
+      "OriginalItemSpec": "wwwroot\\images\\card1-img.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\images\\happy-profile.jpg",
+      "SourceId": "SchoolProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\",
+>>>>>>> 0789b6f (changes)
+      "BasePath": "_content/SchoolProject",
+      "RelativePath": "images/happy-profile.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot/images/happy-profile.jpg"
+    },
+    {
+      "Identity": "/home/usman/Desktop/Project/SchoolProject/wwwroot/images/logo.png",
+      "SourceId": "SchoolProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/usman/Desktop/Project/SchoolProject/wwwroot/",
+=======
+      "OriginalItemSpec": "wwwroot\\images\\happy-profile.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\images\\logo.png",
+      "SourceId": "SchoolProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\",
+>>>>>>> 0789b6f (changes)
+      "BasePath": "_content/SchoolProject",
+      "RelativePath": "images/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot/images/logo.png"
+=======
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\images\\teacher1.jpeg",
+      "SourceId": "SchoolProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\",
+      "BasePath": "_content/SchoolProject",
+      "RelativePath": "images/teacher1.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\teacher1.jpeg"
+>>>>>>> 0789b6f (changes)
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿<Project>
+<<<<<<< HEAD
+  <Import Project="../build/SchoolProject.props" />
+=======
+  <Import Project="..\build\SchoolProject.props" />
+>>>>>>> 0789b6f (changes)
+</Project>

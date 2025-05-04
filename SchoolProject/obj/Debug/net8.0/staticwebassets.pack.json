@@ -1,0 +1,121 @@
+{
+  "Files": [
+    {
+<<<<<<< HEAD
+      "Id": "/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/scopedcss/projectbundle/SchoolProject.bundle.scp.css",
+      "PackagePath": "staticwebassets/SchoolProject.bundle.scp.css"
+    },
+    {
+      "Id": "/home/usman/Desktop/Project/SchoolProject/wwwroot/animations.js",
+      "PackagePath": "staticwebassets/animations.js"
+    },
+    {
+      "Id": "/home/usman/Desktop/Project/SchoolProject/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/home/usman/Desktop/Project/SchoolProject/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/usman/Desktop/Project/SchoolProject/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/usman/Desktop/Project/SchoolProject/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/usman/Desktop/Project/SchoolProject/wwwroot/images/card-img2.jpg",
+      "PackagePath": "staticwebassets/images/card-img2.jpg"
+    },
+    {
+      "Id": "/home/usman/Desktop/Project/SchoolProject/wwwroot/images/card1-img.jpg",
+      "PackagePath": "staticwebassets/images/card1-img.jpg"
+    },
+    {
+      "Id": "/home/usman/Desktop/Project/SchoolProject/wwwroot/images/happy-profile.jpg",
+      "PackagePath": "staticwebassets/images/happy-profile.jpg"
+    },
+    {
+      "Id": "/home/usman/Desktop/Project/SchoolProject/wwwroot/images/logo.png",
+      "PackagePath": "staticwebassets/images/logo.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.SchoolProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.SchoolProject.props",
+      "PackagePath": "build\\SchoolProject.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SchoolProject.props",
+      "PackagePath": "buildMultiTargeting\\SchoolProject.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SchoolProject.props",
+=======
+      "Id": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SchoolProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SchoolProject.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\animations.js",
+      "PackagePath": "staticwebassets\\animations.js"
+    },
+    {
+      "Id": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\images\\card-img2.jpg",
+      "PackagePath": "staticwebassets\\images\\card-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\images\\card1-img.jpg",
+      "PackagePath": "staticwebassets\\images\\card1-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\images\\happy-profile.jpg",
+      "PackagePath": "staticwebassets\\images\\happy-profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\wwwroot\\images\\teacher1.jpeg",
+      "PackagePath": "staticwebassets\\images\\teacher1.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SchoolProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SchoolProject.props",
+      "PackagePath": "build\\SchoolProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SchoolProject.props",
+      "PackagePath": "buildMultiTargeting\\SchoolProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SchoolProject.props",
+>>>>>>> 0789b6f (changes)
+      "PackagePath": "buildTransitive\\SchoolProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

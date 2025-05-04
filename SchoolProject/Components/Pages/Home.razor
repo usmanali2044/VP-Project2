@@ -1,0 +1,266 @@
+﻿@page "/"
+@inject IJSRuntime JS
+
+<PageTitle>HomePage</PageTitle>
+
+<div class="main">
+ <div id="minicircle"></div>
+<div class="page1">
+   
+<div class="navbar">
+    <div class="left-nav">
+        <img src="images/logo.png" alt="SmartSkool Logo" class="logo-img" />
+        <h5 class="p-name">School Management</h5>
+    </div>
+
+    <!-- Desktop Nav Buttons -->
+    <div class="right-nav">
+        <button  onclick="document.getElementById('donations').scrollIntoView({ behavior: 'smooth' })" class="nav-btn nav-btn-1">Donations</button>
+        <button onclick="document.getElementById('pricing').scrollIntoView({behavior:'smooth' })" class="nav-btn nav-btn-2">Pricing</button>
+        <button onclick="document.getElementById('team').scrollIntoView({behavior:'smooth' })"  class="nav-btn nav-btn-3">Team</button>
+        <button class="nav-btn nav-btn-4">Profile</button>
+    </div>
+
+    <!-- Mobile Menu Icon -->
+    <i class="ri-menu-line menu-icon"></i>
+</div>
+
+<!-- Sidebar for Mobile View -->
+<div class="sidebar">
+    <i class="ri-close-line close-sidebar"></i>
+    <button class="nav-btn nav-btn-1">About Us</button>
+    <button class="nav-btn nav-btn-2">Programs</button>
+    <button class="nav-btn nav-btn-3">Learning</button>
+    <button class="nav-btn nav-btn-4">Profile</button>
+</div>
+
+
+        <div class="container-page1">
+
+
+            <div class="left-side">
+                <h1>Welcome to the digital school</h1>
+                <p>Learning That fits into your world</p>
+                <p>Are your parent or educator with a child whol wants To Learning.
+                    We make it easy To learn the fundamentals of Any Course
+                </p>
+                <p>Our platform encourages curiosity and builds strong academic foundations.
+                With engaging lessons, instant feedback, and fun challenges, 
+                students stay motivated while parents track progress every step of the way.
+                </p>
+
+                <button class="lrn-btn1">Get Started Learning</button>
+            </div>
+
+
+            <div class="right-side">
+
+                <div class="card-details">
+                    <div class="text-details">
+                        What should I start?
+                        <i class="ri-arrow-down-s-fill"></i>
+                    </div>
+
+                </div>
+
+        <div class="card-container">
+                <div class="test-card">
+                <div class="card-number">01</div>
+                <div class="divider"></div>
+                <div class="illustration">
+                <img src="images/card1-img.jpg" alt="Hand Illustration" />
+                </div>
+                <div class="card-title">Tests</div>
+                <div class="card-description">
+                Complete the tests and pump up your knowledge
+                </div>
+                </div>
+
+                 <div class="test-card test-card-2">
+                <div class="card-number">02</div>
+                <div class="divider"></div>
+                <div class="illustration">
+                <img src="images/card-img2.jpg" alt="Hand Illustration" />
+                </div>
+                <div class="card-title">Assignments</div>
+                <div class="card-description">
+                Submit your assignments on time and stay ahead in your learning journey.
+                </div>
+                </div>
+
+
+                <div class="test-card test-card-3">
+                <div class="card-number">03</div>
+                <div class="divider"></div>
+                <div class="illustration">
+                <img src="https://img.freepik.com/free-vector/flat-illustration-international-day-education_23-2151045718.jpg?t=st=1746217534~exp=1746221134~hmac=a5af817069e470746f22b81c8898602e453085b6022f7d51d3a901a29ed3ade2&w=740" alt="Hand Illustration" />
+                </div>
+                <div class="card-title">Progress Tracker</div>
+                <div class="card-description">
+                    Monitor your academic growth with detailed reports.
+                </div>
+                </div>
+
+
+                <div class="test-card test-card-4">
+                <div class="card-number">04</div>
+                <div class="divider"></div>
+                <div class="illustration">
+                <img src="https://img.freepik.com/free-vector/hand-drawn-online-tutor-illustration_23-2150939214.jpg?t=st=1746218260~exp=1746221860~hmac=e1687125ae72d45a8275fec42a2b87436e9ae2f0966560b3c6a4c27e34f2840d&w=740" alt="Hand Illustration" />
+                </div>
+                <div class="card-title">Progress Tracker</div>
+                <div class="card-description">
+                    Monitor your academic growth with detailed reports.
+                </div>
+                </div>
+
+                
+
+                
+         </div>  
+ 
+
+
+            </div>
+
+
+        </div>
+</div>
+
+
+<div id="donations" class="page2">
+
+        <div class="page2-container">
+            <div class="page2-card">
+                 <svg class="heart-icon" xmlns="http://www.w3.org/2000/svg" fill="#EBD9FF" viewBox="0 0 24 24" stroke="#000" stroke-width="1">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M12 21l-1-1-7-7c-1.57-1.57-1.6-4.09-.07-5.66a4.5 4.5 0 016.34-.06L12 8l2.74-2.74c2.25-2.25 5.85-1.49 7.04 1.44 1.19 2.93-.75 6.2-3.74 8.25l-7 7z" />
+    </svg>
+                <img src="images/happy-profile.jpg" alt="Card Image" class="card-img">
+            </div>
+
+            <div class="page2-description">
+                    <h1>Contribute To the development of the others</h1>
+                    <div class="page2-para">
+                         <p>The Complete online SL Course offers different level course for
+                        one low price!. This is the best value for the money
+                    </p>
+                    </div>
+
+                    <button class="donation-btn">
+                        <i class="ri-heart-fill"></i>
+                        <span>Give a Donation 1$</span>
+                    </button>
+                   
+            </div>
+        </div>
+    </div>
+
+<div id="pricing" class="page3">
+    <div class="page3-container">
+        <div class="page3-leftpart">
+            <h1>Pricing</h1>
+            <div class="pricing-desc">
+                <p>you can pay Monthly. There are two types offers for you</p>
+                <p>Our Mentors will help you choose the right program for you. Feel free to run at your own pace!  </p>
+                <p>30 day money-back guarantees</p>
+            </div>
+        </div>
+
+        <div class="page3-rightpart">
+            <div class="pricing-card test-card hover-card">
+            <div class="pricing-info">
+            <h2 class="pricing-title">Basic Level</h2>
+        <p class="pricing-description">Assignment access, Basic</p>
+    </div>
+  <div class="pricing-right">
+    <span class="pricing-price">$60/MO</span>
+    <button class="pricing-button">→</button>
+  </div>
+    </div>
+
+
+                <div class="pricing-card test-card hover-card  pricing-card2">
+            <div class="pricing-info">
+            <h2 class="pricing-title">Admissions</h2>
+        <p class="pricing-description">Assignment access, Basic</p>
+    </div>
+  <div class="pricing-right">
+    <span class="pricing-price">$20</span>
+    <button class="pricing-button">→</button>
+  </div>
+    </div>
+
+
+            <div class="pricing-card test-card hover-card pricing-card3">
+            <div class="pricing-info">
+            <h2 class="pricing-title">Advanced Level</h2>
+        <p class="pricing-description">Assignment access, Basic</p>
+    </div>
+  <div class="pricing-right">
+    <span class="pricing-price">$100/MO</span>
+    <button class="pricing-button">→</button>
+  </div>
+    </div>
+        </div>
+    </div>
+</div>
+ 
+<div id="team" class="page4">
+    <div class="page4-container">
+        <div class="P4top-part">
+            <div class="description-page4">
+                <div class="heading-p4">
+                    Meet the Team Shaping the Future Through Quality Education
+                </div>
+                <div class="speech-bubble">
+                    Study Smart with Support from Our Professional Educators
+                </div>
+
+            </div>
+
+            <div class="websites-offer">
+                <div class="para-page4"><p>Our website offers a complete solution to manage school operations efficiently. From student admissions to attendance, exams, and results—everything is handled in one place</p></div>
+                <button class="lrn-btn1 p4-btn">Register Now</button>
+            </div>
+
+        </div>
+
+        <div class="P4btm-part">
+            <div class="teacher-card">
+            <span class="teacher-name">Usman Ali</span>
+            <h3 class="teacher-title">CS Faculty</h3>
+            <img src="images/teacher1.jpeg" alt="Teacher Photo" class="teacher-photo">
+            <button class="arrow-btn">→</button>
+        </div>
+           <div class="teacher-card">
+            <span class="teacher-name">Hamza Irshad</span>
+            <h3 class="teacher-title">Math Faculty</h3>
+            <img src="images/hamza.jpeg" alt="Teacher Photo" class="teacher-photo">
+            <button class="arrow-btn">→</button>
+        </div>
+
+        <div class="teacher-card">
+            <span class="teacher-name">Wow teacher</span>
+            <h3 class="teacher-title">Math Faculty</h3>
+            <img src="" alt="Teacher Photo" class="teacher-photo">
+            <button class="arrow-btn">→</button>
+        </div>
+
+
+           <div class="teacher-card">
+            <span class="teacher-name">Usman Ali</span>
+            <h3 class="teacher-title">CS Faculty</h3>
+            <img src="images/teacher1.jpeg" alt="Teacher Photo" class="teacher-photo">
+            <button class="arrow-btn">→</button>
+        </div>
+
+        </div>
+    </div>
+</div>
+
+</div>
+
+
+
+
+ 

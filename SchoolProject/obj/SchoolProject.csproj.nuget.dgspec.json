@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+<<<<<<< HEAD
+    "/home/usman/Desktop/Project/SchoolProject/SchoolProject.csproj": {}
+  },
+  "projects": {
+    "/home/usman/Desktop/Project/SchoolProject/SchoolProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/usman/Desktop/Project/SchoolProject/SchoolProject.csproj",
+        "projectName": "SchoolProject",
+        "projectPath": "/home/usman/Desktop/Project/SchoolProject/SchoolProject.csproj",
+        "packagesPath": "/home/usman/.nuget/packages/",
+        "outputPath": "/home/usman/Desktop/Project/SchoolProject/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/usman/.nuget/NuGet/NuGet.Config"
+=======
+    "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\SchoolProject.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\SchoolProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\SchoolProject.csproj",
+        "projectName": "SchoolProject",
+        "projectPath": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\SchoolProject.csproj",
+        "packagesPath": "C:\\Users\\Usman Ali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usman Ali\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 0789b6f (changes)
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 0789b6f (changes)
+        }
+      }
+    }
+  }
+}

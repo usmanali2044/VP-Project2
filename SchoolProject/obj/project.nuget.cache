@@ -1,0 +1,14 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "6UJ4bgPSP9k=",
+  "success": true,
+  "projectFilePath": "/home/usman/Desktop/Project/SchoolProject/SchoolProject.csproj",
+=======
+  "dgSpecHash": "CnZV/ydNbOw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usman Ali\\Desktop\\SchoolProject\\SchoolProject.csproj",
+>>>>>>> 0789b6f (changes)
+  "expectedPackageFiles": [],
+  "logs": []
+}

@@ -1,0 +1,64 @@
+/home/usman/Desktop/Project/SchoolProject/bin/Debug/net8.0/appsettings.Development.json
+/home/usman/Desktop/Project/SchoolProject/bin/Debug/net8.0/appsettings.json
+/home/usman/Desktop/Project/SchoolProject/bin/Debug/net8.0/package-lock.json
+/home/usman/Desktop/Project/SchoolProject/bin/Debug/net8.0/package.json
+/home/usman/Desktop/Project/SchoolProject/bin/Debug/net8.0/SchoolProject.staticwebassets.runtime.json
+/home/usman/Desktop/Project/SchoolProject/bin/Debug/net8.0/SchoolProject
+/home/usman/Desktop/Project/SchoolProject/bin/Debug/net8.0/SchoolProject.deps.json
+/home/usman/Desktop/Project/SchoolProject/bin/Debug/net8.0/SchoolProject.runtimeconfig.json
+/home/usman/Desktop/Project/SchoolProject/bin/Debug/net8.0/SchoolProject.dll
+/home/usman/Desktop/Project/SchoolProject/bin/Debug/net8.0/SchoolProject.pdb
+/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/SchoolProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/SchoolProject.AssemblyInfoInputs.cache
+/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/SchoolProject.AssemblyInfo.cs
+/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/SchoolProject.csproj.CoreCompileInputs.cache
+/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/SchoolProject.MvcApplicationPartsAssemblyInfo.cache
+/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/staticwebassets.build.json
+/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/staticwebassets.development.json
+/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/staticwebassets/msbuild.SchoolProject.Microsoft.AspNetCore.StaticWebAssets.props
+/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/staticwebassets/msbuild.build.SchoolProject.props
+/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SchoolProject.props
+/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SchoolProject.props
+/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/staticwebassets.pack.json
+/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/scopedcss/bundle/SchoolProject.styles.css
+/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/scopedcss/projectbundle/SchoolProject.bundle.scp.css
+/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/SchoolProject.dll
+/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/refint/SchoolProject.dll
+/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/SchoolProject.pdb
+/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/SchoolProject.genruntimeconfig.cache
+/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/ref/SchoolProject.dll
+/home/usman/Desktop/Project/SchoolProject/obj/Debug/net8.0/SchoolProject.sourcelink.json
+<<<<<<< HEAD
+=======
+C:\Users\Usman Ali\Desktop\SchoolProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usman Ali\Desktop\SchoolProject\bin\Debug\net8.0\appsettings.json
+C:\Users\Usman Ali\Desktop\SchoolProject\bin\Debug\net8.0\package-lock.json
+C:\Users\Usman Ali\Desktop\SchoolProject\bin\Debug\net8.0\package.json
+C:\Users\Usman Ali\Desktop\SchoolProject\bin\Debug\net8.0\SchoolProject.staticwebassets.runtime.json
+C:\Users\Usman Ali\Desktop\SchoolProject\bin\Debug\net8.0\SchoolProject.exe
+C:\Users\Usman Ali\Desktop\SchoolProject\bin\Debug\net8.0\SchoolProject.deps.json
+C:\Users\Usman Ali\Desktop\SchoolProject\bin\Debug\net8.0\SchoolProject.runtimeconfig.json
+C:\Users\Usman Ali\Desktop\SchoolProject\bin\Debug\net8.0\SchoolProject.dll
+C:\Users\Usman Ali\Desktop\SchoolProject\bin\Debug\net8.0\SchoolProject.pdb
+C:\Users\Usman Ali\Desktop\SchoolProject\obj\Debug\net8.0\SchoolProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usman Ali\Desktop\SchoolProject\obj\Debug\net8.0\SchoolProject.AssemblyInfoInputs.cache
+C:\Users\Usman Ali\Desktop\SchoolProject\obj\Debug\net8.0\SchoolProject.AssemblyInfo.cs
+C:\Users\Usman Ali\Desktop\SchoolProject\obj\Debug\net8.0\SchoolProject.csproj.CoreCompileInputs.cache
+C:\Users\Usman Ali\Desktop\SchoolProject\obj\Debug\net8.0\SchoolProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usman Ali\Desktop\SchoolProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usman Ali\Desktop\SchoolProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usman Ali\Desktop\SchoolProject\obj\Debug\net8.0\staticwebassets\msbuild.SchoolProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usman Ali\Desktop\SchoolProject\obj\Debug\net8.0\staticwebassets\msbuild.build.SchoolProject.props
+C:\Users\Usman Ali\Desktop\SchoolProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SchoolProject.props
+C:\Users\Usman Ali\Desktop\SchoolProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SchoolProject.props
+C:\Users\Usman Ali\Desktop\SchoolProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usman Ali\Desktop\SchoolProject\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Usman Ali\Desktop\SchoolProject\obj\Debug\net8.0\scopedcss\bundle\SchoolProject.styles.css
+C:\Users\Usman Ali\Desktop\SchoolProject\obj\Debug\net8.0\scopedcss\projectbundle\SchoolProject.bundle.scp.css
+C:\Users\Usman Ali\Desktop\SchoolProject\obj\Debug\net8.0\SchoolProject.dll
+C:\Users\Usman Ali\Desktop\SchoolProject\obj\Debug\net8.0\refint\SchoolProject.dll
+C:\Users\Usman Ali\Desktop\SchoolProject\obj\Debug\net8.0\SchoolProject.pdb
+C:\Users\Usman Ali\Desktop\SchoolProject\obj\Debug\net8.0\SchoolProject.genruntimeconfig.cache
+C:\Users\Usman Ali\Desktop\SchoolProject\obj\Debug\net8.0\ref\SchoolProject.dll
+>>>>>>> 0789b6f (changes)
